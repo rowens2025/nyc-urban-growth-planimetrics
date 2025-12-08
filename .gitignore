@@ -214,3 +214,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore large raw files
+data/raw/
+*.zip
+*.shp
+*.dbf
+*.shx
+*.gpkg
+.ipynb_checkpoints/
+.venv/
