@@ -224,3 +224,10 @@ data/raw/
 *.gpkg
 .ipynb_checkpoints/
 .venv/
+
+data/
+  raw/
+    building_current/
+    building_historic/
+  processed/
+
